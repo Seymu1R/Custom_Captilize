@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.input{
+    background-color: darkblue;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.input input{
+    
+    padding: 20px 100px ;
+}
+.input button{
+    background-color: brown;
+    padding: 20px 100px ;
+}
